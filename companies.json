@@ -1,0 +1,24 @@
+{
+    "companies": [
+      {
+        "name": "Scalero",
+        "chart": "https://theorg.com/org/scalero/team",
+        "logo": "https://cdn.theorg.com/bcc32314-cda4-40c7-a22a-4151c81ed713_thumb.jpg"
+      },
+      {
+        "name": "Warner Bros.",
+        "chart": "https://theorg.com/org/warner-bros-entertainment/team",
+        "logo": "https://cdn.theorg.com/59178766-0321-49b7-a002-433a607aa477_thumb.png"
+      },
+      {
+        "name": "Snap",
+        "chart": "https://theorg.com/org/snap/team",
+        "logo": "https://cdn.theorg.com/ff038cf3-12cd-4bc6-bdd2-8f815ef46699_thumb.jpg"
+      },
+      {
+        "name": "Spot.IM",
+        "chart": "https://theorg.com/org/spot-im/team",
+        "logo": "https://cdn.theorg.com/1695ca57-c5e1-473e-a6a7-c2a307bd8330_thumb.jpg"
+      }
+    ]
+  }
